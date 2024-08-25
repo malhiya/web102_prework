@@ -4,7 +4,7 @@ Submitted by: **Malhiya Arnib**
 
 **SeaMonster** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
@@ -17,7 +17,9 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] List anything else that you can get done to improve the app functionality!
+* I changed the background color of the page for a better color theme with CSS.
+* I also changed the text color of the webpage text to be white by adding an intro-text class to the texts I wanted to be white. 
 
 ## Video Walkthrough
 
@@ -35,6 +37,9 @@ GIF created with LiceCap
 ## Notes
 
 Describe any challenges encountered while building the app.
+1. The first challenge I encountered was in challenge 3. I was having trouble writing arrow functions. I was able to understand a written one, but I had trouble writing one. The medium article that was provided helped me have a better understanding.And after looking at a few examples, I was able to understand them.
+2. The second challenge I had was in challenge 6 with the template string. I was having trouble with making when where the values change. I had to look at more resources like W3Schools, freeCodeCamp, and MDN Web docs to understand it. And after looking at the different examples I was able to understand it.
+
 
 ## License
 
